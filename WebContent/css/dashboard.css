@@ -105,11 +105,11 @@ html {
   }
 
 
-  .navbar-nav .active > .nav-link,
+  /*.navbar-nav .active > .nav-link,
   .navbar-nav .nav-link.active {
     background-color: #0f7bff;
     color: #fff;
-  }
+  }*/
   .navbar-nav .nav-link.active i {
     color: #fff;
   }

@@ -119,11 +119,11 @@ html {
     color: #fff;
     padding: 15px 30px;
   }
-  .navbar-nav .active > .nav-link,
+  /*.navbar-nav .active > .nav-link,
   .navbar-nav .nav-link.active {
     background-color: #0f7bff;
     color: #fff;
-  }
+  }*/
   .navbar-nav .nav-link.active i {
     color: #fff;
   }
@@ -268,7 +268,7 @@ html {
   }
   .tm-col-account-settings {
     max-width: 822px;
-    width: 63%;
+    width: 50%;
     padding-left: 15px;
     padding-right: 15px;
   
@@ -317,9 +317,9 @@ html {
   .tm-list > li {
     margin-bottom: 20px;
   }
+
   .form-control {
     padding: 19px 18px;
-    border-radius: 0;
     height: 50px;
     border-radius: 20px;
   }
@@ -330,8 +330,9 @@ html {
     border-radius: 30px;
     padding: 13px 28px;
     transition: all 0.2s ease;
-    max-width: 90%;
+    max-width: 50%;
     text-align: center; 
+    margin-left: 25%;
   }
   .btn-small {
     padding: 10px 24px;
@@ -468,9 +469,9 @@ html {
     color: #9f1321;
   }
   .tm-footer {
-    background-color: #1111118e;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    background-color: #567086;
+    padding-top: 45px;
+    padding-bottom: 50px;
     -webkit-box-shadow: 0 -3px 5px 0 rgba(69, 92, 113, 0.59);
     -moz-box-shadow: 0 -3px 5px 0 rgba(69, 92, 113, 0.59);
     box-shadow: 0 -3px 5px 0 rgba(69, 92, 113, 0.59);

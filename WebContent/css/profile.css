@@ -119,11 +119,11 @@ html {
     color: #fff;
     padding: 15px 30px;
   }
-  .navbar-nav .active > .nav-link,
+  /*.navbar-nav .active > .nav-link,
   .navbar-nav .nav-link.active {
     background-color: #0f7bff;
     color: #fff;
-  }
+  }*/
   .navbar-nav .nav-link.active i {
     color: #fff;
   }
@@ -490,7 +490,7 @@ html {
     margin-top: 12.5%;
     background-color: #567086;
     padding-top: 40px;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
     -webkit-box-shadow: 0 -3px 5px 0 rgba(69, 92, 113, 0.59);
     -moz-box-shadow: 0 -3px 5px 0 rgba(69, 92, 113, 0.59);
     box-shadow: 0 -3px 5px 0 rgba(69, 92, 113, 0.59);
